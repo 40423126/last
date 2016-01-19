@@ -277,7 +277,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean W1.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean W1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -285,6 +285,7 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="leo.20160119223540.1"><vh>作業任務一</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -292,7 +293,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205355.1"><vh>@clean W2.html</vh>
+<v t="leo.20160119205355.1" a="E"><vh>@clean W2.html</vh>
 <v t="leo.20160119205355.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205355.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205355.4" a="E"><vh>body 標註</vh>
@@ -300,6 +301,7 @@
 <v t="leo.20160119205355.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205355.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205355.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119223846.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205355.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -307,7 +309,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205447.1"><vh>@clean W3.html</vh>
+<v t="leo.20160119205447.1" a="E"><vh>@clean W3.html</vh>
 <v t="leo.20160119205447.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205447.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205447.4" a="E"><vh>body 標註</vh>
@@ -315,6 +317,7 @@
 <v t="leo.20160119205447.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205447.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205447.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119223948.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205447.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -322,7 +325,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205452.1"><vh>@clean W5.html</vh>
+<v t="leo.20160119205452.1" a="E"><vh>@clean W5.html</vh>
 <v t="leo.20160119205452.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205452.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205452.4" a="E"><vh>body 標註</vh>
@@ -330,6 +333,7 @@
 <v t="leo.20160119205452.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205452.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205452.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224037.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205452.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -337,7 +341,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205453.1"><vh>@clean W6.html</vh>
+<v t="leo.20160119205453.1" a="E"><vh>@clean W6.html</vh>
 <v t="leo.20160119205453.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205453.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205453.4" a="E"><vh>body 標註</vh>
@@ -345,6 +349,7 @@
 <v t="leo.20160119205453.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205453.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205453.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224115.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205453.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -352,7 +357,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205454.1"><vh>@clean W7.html</vh>
+<v t="leo.20160119205454.1" a="E"><vh>@clean W7.html</vh>
 <v t="leo.20160119205454.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205454.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205454.4" a="E"><vh>body 標註</vh>
@@ -360,6 +365,7 @@
 <v t="leo.20160119205454.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205454.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205454.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224151.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205454.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -367,7 +373,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205456.1"><vh>@clean W8.html</vh>
+<v t="leo.20160119205456.1" a="E"><vh>@clean W8.html</vh>
 <v t="leo.20160119205456.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205456.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205456.4" a="E"><vh>body 標註</vh>
@@ -375,6 +381,7 @@
 <v t="leo.20160119205456.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205456.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205456.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224225.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205456.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -382,7 +389,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160119205457.1"><vh>@clean W11.html</vh>
+<v t="leo.20160119205457.1" a="E"><vh>@clean W11.html</vh>
 <v t="leo.20160119205457.2"><vh>檔案說明</vh></v>
 <v t="leo.20160119205457.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160119205457.4" a="E"><vh>body 標註</vh>
@@ -435,6 +442,7 @@
 <v t="leo.20160119205501.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205501.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205501.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224747.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205501.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -450,6 +458,7 @@
 <v t="leo.20160119205502.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205502.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205502.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224720.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205502.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -465,6 +474,7 @@
 <v t="leo.20160119205503.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160119205503.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160119205503.8"><vh>作業任務一</vh></v>
+<v t="leo.20160119224645.1"><vh>作業任務一</vh></v>
 <v t="leo.20160119205503.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2161,9 +2171,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;剛起步給自己一個最低設限&lt;/p&gt;
+    &lt;p&gt;分數:60&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2194,15 +2204,14 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W1-作業&lt;/h1&gt;
+    &lt;p&gt;40423126紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;新增GITHUB的帳號，以及初次Clone網誌上的檔案，新建cpw1之工作目錄&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2375,22 +2384,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W2-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;			
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205355.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;如何使用 Ana3_lite2，以及python的切換分支和查看分支所在指令&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205355.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;好還要再更好&lt;/p&gt;
+    &lt;p&gt;分數:65&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2447,22 +2455,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W3-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205447.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;pelican 網誌與 reveal.js 投影片製作, 以及內容送到 Github pages 分支&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205447.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;指令轟炸後的腦袋&lt;/p&gt;
+    &lt;p&gt;分數:68&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2519,22 +2526,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W5-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205452.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;Git的基本操作，以及修改LEO上的投影片和改投影片的格式，以便往後交作業給老師評分。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205452.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;筆記真的很罩，抄得很白話幫助記憶再度恢復&lt;/p&gt;
+    &lt;p&gt;分數:70&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2591,22 +2597,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W6-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205453.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;加入班上的協同倉儲，並為自己新增帳號、資料夾。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205453.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自己的班要自己維護，實力要再更進步&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2663,22 +2668,22 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W7-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205454.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;如何使用線上教學系統提升程式能力！&lt;/p&gt;
+    &lt;p&gt;如何運用分散式版次管理系統！&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205454.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;希望自己有朝一日也能熟練這些程式&lt;/p&gt;
+    &lt;p&gt;分數:70&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2735,22 +2740,22 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W8-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205456.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;上課內容&lt;/h1&gt;
+    &lt;p&gt;如何將IPv4改成IPv6！為了開通學校電腦網路&lt;/p&gt;
+    &lt;p&gt;如何找出班上倉儲做壞者？！&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205456.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2807,22 +2812,26 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W11-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205457.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+ &lt;h1&gt;大綱與筆記&lt;/h1&gt;
+ &lt;p&gt;random=亂數&lt;/p&gt;
+ &lt;p&gt;randint=整數函數&lt;/p&gt;
+ &lt;p&gt;#為註解)&lt;/p&gt;
+ &lt;p&gt;integer=整數&lt;/p&gt;
+ &lt;p&gt;string=字串&lt;/p&gt;
+ &lt;p&gt;float=古典數&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205457.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2879,22 +2888,37 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W12-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205458.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+ &lt;h1&gt;程式碼&lt;/h1&gt;
+ &lt;p&gt;#coding: utf-8
+# 猜數字遊戲
+import random
+   
+標準答案 = random.randint(1, 100)
+你猜的數字 = int(input("請輸入您所猜的整數:"))
+猜測次數 = 1
+while 標準答案 != 你猜的數字:
+ if 標準答案 &lt; 你猜的數字:
+print("太大了，再猜一次 :)加油")
+else:
+print("太小了，再猜一次 :)加油")
+你猜的數字 = int(input("請輸入您所猜的整數:"))
+猜測次數 += 1
+   
+print("猜對了！總共猜了", 猜測次數, "次")&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205458.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2951,22 +2975,108 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W13-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205459.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+ &lt;h1&gt;程式碼&lt;/h1&gt;
+ &lt;p&gt;import random
+# 產生標準答案
+# 利用 list 數列資料型別建立顏色選項
+# Red 紅色, White 白色, Yellow 黃色, Green 綠色, Blue 藍色, Purple 紫色, 假設顏色值不會重複
+print('''遊戲規則說明: 可選顏色值, \nRed 紅色, White 白色, Yellow 黃色, Green 綠色, \nBlue 藍色, Purple 紫色, \nRBYGBP, \nX 表示位置與顏色都對, O 表示顏色對, 但是位置不對.
+''')
+ 
+顏色選項 = ["R", "W", "Y", "G", "B", "P"]
+標準答案 = random.sample(顏色選項, 4)    
+print (標準答案)
+ 
+顏色字串 = ""
+幾次決勝 = 9
+猜測次數 = 0
+遊戲進行中 = True
+  &lt;/section&gt;
+  
+&lt;section&gt;
+ &lt;h1&gt;程式碼2&lt;/h1&gt;
+ &lt;p&gt;print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")
+  
+for i in range(len(顏色選項)):
+    顏色字串 += 顏色選項[i]
+#print (顏色字串)
+   
+while 遊戲進行中:
+    位置顏色都正確 = ""
+    顏色對位置錯 = ""
+    # 將使用者的輸入轉為大寫英文字母
+    使用者猜測輸入 = input("請從下列顏色值中選四個, "+顏色字串+": ").upper()
+    猜測次數 += 1
+       
+    # 檢驗是否輸入四個顏色字母
+    if len(使用者猜測輸入) != len(標準答案):
+        print ("\n只能猜四個顏色, 請重猜!")
+        print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+        continue
+    # 判斷是否重複選擇相同顏色
+    if len(使用者猜測輸入) &gt; len(set(使用者猜測輸入)):
+        print ("\n顏色值不能重複！")
+        print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+        continue
+         for i in range(4):
+        # 判斷是否從顏色選項輸入
+        if 使用者猜測輸入[i] not in 顏色選項:
+            print ("\n只能從下列顏色選項中輸入!", 顏色選項)
+            print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+            continue&lt;/p&gt;
+  &lt;/section&gt;
+  
+  &lt;section&gt;
+ &lt;h2&gt;程式碼3&lt;/h2&gt;
+ &lt;p&gt;
+
+               
+    if 位置顏色都正確 != "XXXX":
+        for i in range(4):
+            if 使用者猜測輸入[i] == 標準答案[i]:
+                位置顏色都正確 += "X"
+            if  使用者猜測輸入[i] != 標準答案[i] and 使用者猜測輸入[i] in 標準答案:
+                顏色對位置錯 += "O"
+        print (位置顏色都正確 +  顏色對位置錯 + "\n")       
+           
+    if 位置顏色都正確 == "XXXX":
+        if 猜測次數 == 1:
+            print ("太神奇了, 1 次就猜對!")
+        else:
+            print ("還不錯... 總共猜了 " + str(猜測次數) + " 次, 終於猜對!")
+        遊戲進行中 = False
+           
+    if 猜測次數&gt;= 1 and 猜測次數 = 幾次決勝:
+        print ("沒有猜對! 願賭服輸, 答案顏色值為: " + str(標準答案))  
+        遊戲進行中 = False
+   
+    # 詢問要不要再玩
+    while 遊戲進行中 == False:
+        遊戲結束詢問 = input("\n要不要再玩 (Y/N)?").upper()  
+        # 猜測次數歸零
+        猜測次數 = 0
+        if 遊戲結束詢問 =="N":
+            print ("歡迎再回來玩!")
+        elif 遊戲結束詢問 == "Y":
+            遊戲進行中 = True
+            # 重新產生標準答案
+            標準答案 = random.sample(顏色選項, 4)     
+            #print (標準答案)
+            print ("好, 再玩一次...")
+            print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205459.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3023,22 +3133,20 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W14-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205501.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;垂直線和水平線組成的正方形&lt;/h1&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205501.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3095,22 +3203,20 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W15-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205502.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;聖誕圖&lt;/h1&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205502.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3167,22 +3273,80 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;W17-作業&lt;/h1&gt;
+    &lt;p&gt;40423126 紀鈞瀚&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160119205503.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;動態模擬&lt;/h1&gt;	
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160119205503.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安安穩穩的度過&lt;/p&gt;
+    &lt;p&gt;分數:75&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119223540.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;對於初學者的我來說，第一次接觸到未知的領域，表示這堂課是在幹嘛???&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119223846.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;第二次上課，接觸到更多python指令，還有LEO連動性，開始有點初步的了解！非常好。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119223948.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;繁多的python指令，操筆記的速度在提升一等，老師教得有點過快，只能看影片在重新理解一次！&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224037.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;只要一個恍神，就會不知道怎麼做。所以只能把上課講的東西先抄進去筆記裡面。回家再慢慢研討！&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224115.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;這周所使用的東西，100％都是之前上過的課程，在上課就完成老師所賦予的任務，多了個班上的倉儲，要讓所有人了解『如果自己犯錯，會連帶影響到全班』&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224151.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;不只python，還有很多領域是身為一位工程師必備的技能&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224225.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課心得&lt;/h1&gt;
+    &lt;p&gt;跟著老師一步步走，這次的教學過程是做完一步後換我們做，顯得格外輕鬆！也順利成功開通。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224645.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這個禮拜老師展現了動態模擬的程式,利用視覺暫留的方法,用很多張的照片所以我們看到就像是球從高處落下&lt;/p&gt;	
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224720.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;繪圖心得&lt;/h1&gt;
+    &lt;p&gt;這禮拜老師教我們畫有關聖誕節的圖,同樣利用小畫家畫,速度有稍微變快一點&lt;/p&gt;	
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224747.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;繪圖心得&lt;/h1&gt;
+    &lt;p&gt;這個禮拜老師教我們如何在網頁上畫圖,就是在網頁畫出垂直和平行互相交錯的正方形,透過小畫家,可以知道座標點,方便畫圖&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>

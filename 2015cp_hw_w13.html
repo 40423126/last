@@ -259,17 +259,129 @@ init_mathjax();
                 </div>
                 <p>以下為W13內容</p>
 <p>利用 iframe 嵌入投影片:</p>
-<iframe src="simplest.html" width="500" height="300"></iframe>
+<iframe src="W13.html" width="500" height="300"></iframe>
 
-<p>Anaconda3是我們這學習學習python的工具,讓我們來安裝吧:))</p>
-<p>1.到老師網頁下載Anaconda3<font color=red>http://wordpress-2015course.rhcloud.com/?page_id=3633 </font>   </p>
-<p>2.下載fix</p>
-<p>3.點擊 <font color=red>fix.bat </font>  ---它只會閃一下</p>
-<p>4.點擊<font color=red>start.bat</font></p>
-<p>5.完成囉</p>
-<iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p>程式碼</p>
+<p>import random</p>
+<p>產生標準答案    利用 list 數列資料型別建立顏色選項</p>
+<p>#Red 紅色, White 白色, Yellow 黃色, Green 綠色, Blue 藍色, Purple 紫色, 假設顏色值不會重複</p>
+<p>print('''遊戲規則說明: 可選顏色值, \nRed 紅色, White 白色, Yellow 黃色, Green 綠色, \nBlue 藍色, Purple 紫色, \nRBYGBP, \nX 表示位置與顏色都對, O 表示顏色對, 但是位置不對.''')</p>
+<p>顏色選項 = ["R", "W", "Y", "G", "B", "P"]</p>
+<p>標準答案 = random.sample(顏色選項, 4)</p>
+<p>print (標準答案)</p>
+<p>顏色字串 = ""
+幾次決勝 = 9
+猜測次數 = 0
+遊戲進行中 = True</p>
+<p>print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")</p>
+<p>for i in range(len(顏色選項)):</p>
+<div class="highlight"><pre>顏色字串 += 顏色選項[i]
+</pre></div>
 
-<p><p><a href="https://vimeo.com/137724068">Welcome Speech</a> from <a href="https://vimeo.com/user24079973">虎尾科大機械設計工程系 KMOL</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+
+<p>#print (顏色字串)</p>
+<p>while 遊戲進行中:
+    位置顏色都正確 = ""</p>
+<div class="highlight"><pre>顏色對位置錯 = &quot;&quot;
+
+# 將使用者的輸入轉為大寫英文字母
+
+使用者猜測輸入 = input(&quot;請從下列顏色值中選四個, &quot;+顏色字串+&quot;: &quot;).upper()
+
+猜測次數 += 1
+
+# 檢驗是否輸入四個顏色字母
+
+if len(使用者猜測輸入) != len(標準答案):
+
+    print (&quot;\n只能猜四個顏色, 請重猜!&quot;)
+
+    print (&quot;\n剩下&quot;, 幾次決勝 - 猜測次數, &quot;次機會,可以猜: &quot;)
+    continue
+# 判斷是否重複選擇相同顏色
+
+if len(使用者猜測輸入) &gt; len(set(使用者猜測輸入)):
+
+    print (&quot;\n顏色值不能重複！&quot;)
+
+    print (&quot;\n剩下&quot;, 幾次決勝 - 猜測次數, &quot;次機會,可以猜: &quot;)
+
+    continue
+
+     for i in range(4):
+
+    # 判斷是否從顏色選項輸入
+
+    if 使用者猜測輸入[i] not in 顏色選項:
+
+        print (&quot;\n只能從下列顏色選項中輸入!&quot;, 顏色選項)
+
+        print (&quot;\n剩下&quot;, 幾次決勝 - 猜測次數, &quot;次機會,可以猜: &quot;)
+
+        continue
+
+if 位置顏色都正確 != &quot;XXXX&quot;:
+    for i in range(4):
+
+        if 使用者猜測輸入[i] == 標準答案[i]:
+
+            位置顏色都正確 += &quot;X&quot;
+
+        if  使用者猜測輸入[i] != 標準答案[i] and 使用者猜測輸入[i] in 標準答案:
+            顏色對位置錯 += &quot;O&quot;
+
+    print (位置顏色都正確 +  顏色對位置錯 + &quot;\n&quot;)
+
+if 位置顏色都正確 == &quot;XXXX&quot;:
+
+    if 猜測次數 == 1:
+
+        print (&quot;太神奇了, 1 次就猜對!&quot;)
+
+    else:
+        print (&quot;還不錯... 總共猜了 &quot; + str(猜測次數) + &quot; 次, 終於猜對!&quot;)
+
+    遊戲進行中 = False
+
+
+if 猜測次數&gt;= 1 and 猜測次數 = 幾次決勝:
+
+    print (&quot;沒有猜對! 願賭服輸, 答案顏色值為: &quot; + str(標準答案))
+
+    遊戲進行中 = False
+
+# 詢問要不要再玩
+
+while 遊戲進行中 == False:
+    遊戲結束詢問 = input(&quot;\n要不要再玩 (Y/N)?&quot;).upper()
+
+    # 猜測次數歸零
+
+    猜測次數 = 0
+
+    if 遊戲結束詢問 ==&quot;N&quot;:
+
+        print (&quot;歡迎再回來玩!&quot;)
+
+    elif 遊戲結束詢問 == &quot;Y&quot;:
+
+        遊戲進行中 = True
+
+        # 重新產生標準答案
+
+        標準答案 = random.sample(顏色選項, 4)
+
+        #print (標準答案)
+
+        print (&quot;好, 再玩一次...&quot;)
+
+        print (&quot;總共有&quot;, 幾次決勝 - 猜測次數, &quot;次機會,可以猜!&quot;)
+</pre></div>
+
+
+<iframe src="https://player.vimeo.com/video/152251888" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><p><a href="https://vimeo.com/152251888">w12</a> from <a href="https://vimeo.com/user47988113">邱弘丞</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
             </div>
             <!-- /.entry-content -->
     <hr/>
